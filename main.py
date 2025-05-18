@@ -2621,7 +2621,7 @@ async def main():
 
     t_GO = 0
 
-    index = 11 #11に戻す
+    index = 0 #11に戻す
     tmr_music = 0
     tmr_se = 0
     life = 3
